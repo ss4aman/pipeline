@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\puria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\puria\\.nuget\\packages"
+    ]
+  }
+}
